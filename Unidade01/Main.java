@@ -1,9 +1,10 @@
 public class Main {
 
     public static void main(String[] args) {
-        // Exibindo Olá mundo no console...
-        System.out.println("Olá Mundo... Esta é minha primeira classe em Java!..");
-        // Modificado para exibir o nome completo...
+        //Exibindo olá mundo no console...
+        System.out.println("Olá mundo!... Esta é minha primeira classe em Java...");
+        System.out.println("\n");
+        //Modificado para exibir nome completo... 
         System.out.println("Meu nome é Marcia Patricia Moreno...");
     }
 }

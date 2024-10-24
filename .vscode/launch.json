@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TiposDeVariaveis",
+            "request": "launch",
+            "mainClass": "TiposDeVariaveis",
+            "projectName": "200ExerciciosDeJava_1977df91"
+        },
+        {
+            "type": "java",
+            "name": "PrimeirosPassosComentarios",
+            "request": "launch",
+            "mainClass": "PrimeirosPassosComentarios",
+            "projectName": "200ExerciciosDeJava_1977df91"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
